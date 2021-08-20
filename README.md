@@ -5,7 +5,7 @@ Model used encoder layer of Transformer architecture
 
 [Project Notebook](https://github.com/MBadriNarayanan/ClickbaitClassification/blob/master/Clickbait.ipynb)
 
-Model perfomed with an accuracy of 98 % across the training, validation and and testing dataset.
+Model perfomed with an accuracy of 98% across the training, validation and and testing dataset.
 
 ## Dataset from the following paper 
 
@@ -15,6 +15,7 @@ The clickbait corpus consists of article headlines from ‘BuzzFeed’, ‘Upwor
 
 This dataset is an enlarged version of the dataset used in the following paper. If you are using this data for any research publication, or for preparing a technical report, you must cite the paper as the source of the dataset.
 
+```
 @inproceedings{chakraborty2016stop,
   title={Stop Clickbait: Detecting and preventing clickbaits in online news media},
   author={Chakraborty, Abhijnan and Paranjape, Bhargavi and Kakarla, Sourya and Ganguly, Niloy},
@@ -23,3 +24,4 @@ This dataset is an enlarged version of the dataset used in the following paper. 
   year={2016},
   organization={IEEE}
 }
+```
