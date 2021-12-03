@@ -1,7 +1,7 @@
 # ClickbaitClassification
-Classifying clickbaits : articles with potentially misleading titles, using state-of-the-art NLP architectures.
+Classifying clickbaits : articles with potentially misleading titles, using a state-of-the-art NLP architecture.
 
-Model used encoder layer of Transformer architecture
+Model used encoder layer of Transformer architecture introduced by [Vaswani et.al](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 
 [Project Notebook](https://github.com/MBadriNarayanan/ClickbaitClassification/blob/master/Clickbait.ipynb)
 
