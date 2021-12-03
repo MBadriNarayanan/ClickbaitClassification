@@ -1,5 +1,5 @@
 # ClickbaitClassification
-Classifying clickbaits using modern NLP techniques and architectures.
+Classifying clickbaits : articles with potentially misleading titles, using state-of-the-art NLP architectures.
 
 Model used encoder layer of Transformer architecture
 
